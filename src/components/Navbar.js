@@ -24,7 +24,7 @@ const NavBar = () => {
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-center">
           <Nav className="mr-auto mx-5">
-            <Link className="nav-link" to="/">
+            <Link className="nav-link" to="/home">
               <b>Home</b>
             </Link>
             <Link className="nav-link" to="/products">
