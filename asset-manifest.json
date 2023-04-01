@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ramadasfurniturepoint.com/static/css/main.2836b79c.css",
-    "main.js": "/ramadasfurniturepoint.com/static/js/main.3c911a13.js",
+    "main.js": "/ramadasfurniturepoint.com/static/js/main.c95889d8.js",
     "static/media/ramadasshop.jpg": "/ramadasfurniturepoint.com/static/media/ramadasshop.34e5f15b2a3895c78ce6.jpg",
     "static/media/FurLogo.png": "/ramadasfurniturepoint.com/static/media/FurLogo.d11426ea157f72299e6b.png",
     "static/media/ramadas2.avif": "/ramadasfurniturepoint.com/static/media/ramadas2.c718965d596aa552a79c.avif",
     "index.html": "/ramadasfurniturepoint.com/index.html",
     "main.2836b79c.css.map": "/ramadasfurniturepoint.com/static/css/main.2836b79c.css.map",
-    "main.3c911a13.js.map": "/ramadasfurniturepoint.com/static/js/main.3c911a13.js.map"
+    "main.c95889d8.js.map": "/ramadasfurniturepoint.com/static/js/main.c95889d8.js.map"
   },
   "entrypoints": [
     "static/css/main.2836b79c.css",
-    "static/js/main.3c911a13.js"
+    "static/js/main.c95889d8.js"
   ]
 }
