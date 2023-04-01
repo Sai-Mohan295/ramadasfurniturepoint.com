@@ -15,7 +15,7 @@ const NavBar = () => {
           className="justify-content-between"
           style={{ paddingLeft: "2rem" }}
         >
-          <Link className="link" to="/">
+          <Link className="link" to="/home">
             <b>
               <span>R</span>amadas <span>F</span>urniture <span>P</span>oint
             </b>
